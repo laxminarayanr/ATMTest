@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# Moq1200: Moq: Invalid setup parameter
+dotnet_diagnostic.Moq1200.severity = none
