@@ -14,7 +14,7 @@ Two BDD scenarios have been defined within this ATMTest project, one each corres
 The following mocks have been defined within ATM.cs class, which call the methods defined within the respective Services.
 
 - IBalanceEnquiryServiceMock
-- ICashWithdrwalaServiceMock
+- ICashWithdrwalServiceMock
 - IPinValidationServiceMock
 
 The test data provided in the problem statement is referenced in the form of Cucumber data tables.
