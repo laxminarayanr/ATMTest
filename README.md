@@ -9,7 +9,13 @@ The solution uses a project reference called ATM-API, which contains the followi
 
 The project reference can be downloaded from the following GitHub project: https://github.com/laxminarayanr/ATM-API
 
-BDD scenarios have been defined within this ATMTest project. Mocks have been defined within ATM.cs class, which call the methods defined within the respective Services.
+Two BDD scenarios have been defined within this ATMTest project, one each corresponding to Balance Enquiry and Cash Withdrawal scenarios.
+
+The following mocks have been defined within ATM.cs class, which call the methods defined within the respective Services.
+
+- IBalanceEnquiryServiceMock
+- ICashWithdrwalaServiceMock
+- IPinValidationServiceMock
 
 The test data provided in the problem statement is referenced in the form of Cucumber data tables.
 
