@@ -7,7 +7,7 @@ The solution uses a project reference called ATM-API, which contains the followi
 - ICashWithdrawalService.cs
 - IPinValidationService.cs
 
-The project reference can be downloaded from the following GitHub project: 
+The project reference can be downloaded from the following GitHub project: https://github.com/laxminarayanr/ATM-API
 
 BDD scenarios have been defined within this ATMTest project. Mocks have been defined within ATM.cs class, which call the methods defined within the respective Services.
 
